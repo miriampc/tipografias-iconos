@@ -1,0 +1,31 @@
+.sprite {
+    background-image: url('../images/spritesheet.png');
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-brendan {
+    width: 50px;
+    height: 50px;
+    background-size: 278%;
+    background-position: -5px -5px;
+}
+
+.sprite-chicas-lab {
+    width: 95px;
+    height: 36px;
+    background-position: -106px -5px;
+}
+
+.sprite-laboratoria-logo {
+    width: 50px;
+    height: 50px;
+    background-size: 520%;
+    background-position: -106px -51px;
+}
+
+.sprite-medium {
+    width: 52px;
+    height: 46px;
+    background-position: -211px -5px;
+}
